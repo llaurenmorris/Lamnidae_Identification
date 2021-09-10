@@ -9,8 +9,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
 #### Lamna, White, and Mako sharks can easily be mistaken for each other. The images below show how similarly these species can appear to each other!
  ![](/Users/laure/Markdown Images/Comparison.png)
 

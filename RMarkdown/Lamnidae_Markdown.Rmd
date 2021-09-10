@@ -1,0 +1,54 @@
+---
+title: "Distinguishing White, Mako, and Lamna Sharks"
+output: 
+  html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+#### Lamna, White, and Mako sharks can easily be mistaken for each other. The images below show how similarly these species can appear to each other!
+ ![](/Users/laure/Markdown Images/Comparison.png)
+
+#### The Lamnidae family contains five species, including *Carcharodon carcharias* (White Shark), *Isurus oxyrinchus* (Shortfin Mako), *Isurus paucus* (Longfin Mako), *Lamna ditropis* (Salmon Shark), and *Lamna nasus* (Porbeagle Shark). Major features that characterize this family are 
+
+- spindle-shaped body
+- conical head
+- broad gills
+- very small second dorsal fin and anal fins
+- flared body preceding caudal fin
+
+#### Although there are some distinguishing features between the three genera, they can be misidentified at first glance. Here are some tips to help you correctly identify your species!
+
+#### First, check the second dorsal fin positioning in relation to the anal fin.
+ ![](/Users/laure/Markdown Images/Analfin.png)
+
+#### Variations in their teeth can also provide insight to the species.
+ ![](/Users/laure/Markdown Images/teeth.png)
+
+#### The number of caudal keels can also indicate species. Both species in the Lamna genus have two caudal keels, shown in the first image. Mako sharks and White sharks only have one caudal keel, shown in the second image, 
+ ![](/Users/laure/Markdown Images/keels.png)
+
+
+## General Overview of the Five Species
+ ![](/Users/laure/Markdown Images/white.png)
+
+ ![](/Users/laure/Markdown Images/shortfinmako.png)
+
+ ![](/Users/laure/Markdown Images/longfinmako.png)
+
+
+ ![](/Users/laure/Markdown Images/salmon.png)
+ 
+ 
+ ![](/Users/laure/Markdown Images/porbeagle.png)
+
+
+#### Works Cited
+- Ebert, D.A., et al. “On Board Guide for the Identification of Pelagic Sharks and Rays. Western Indian Ocean.” Food and Agriculture Organization of the United Nations, FAO/IOC, 2015, www.fao.org/publications/card/en/c/dcc8fb57-adbf-45c3-80a7-e32f0e128014/. 
+- “A Global Information System on Fishes.” FishBase, www.fishbase.in/home.htm. 
+- Lamnidae Sharks, www.newenglandsharks.com/Page4Lamnidaefamily.html. 
